@@ -1,0 +1,28 @@
+a{
+  color: green;
+}
+/* непосещенные ссылки*/
+a:link{
+  color: red;
+}
+/* посещенные ссылки*/
+a:visited {
+  font-style:bold ;
+}
+/* при наведении*/
+a:hover {
+  background-color: rgb(0, 0, 0);
+  font-size: 2rem;
+  color: white;
+}
+/*при нажатии*/
+a:active{
+  background-color: blue;
+  color: white;
+}
+#ex-4 {
+  color: red;
+}
+#example:active{
+  color: green;
+}
