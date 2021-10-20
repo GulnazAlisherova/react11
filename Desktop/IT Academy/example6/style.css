@@ -8,6 +8,7 @@ a:link{
 /* посещенные ссылки*/
 a:visited {
   font-style:bold ;
+  color: rgb(211, 214, 0);
 }
 /* при наведении*/
 a:hover {
