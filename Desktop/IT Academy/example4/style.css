@@ -1,0 +1,82 @@
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+#e1 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg);
+  background-size: 50px;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}
+#e2 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg), url(./priroda.jpg);
+  background-size: contain, 50px;
+  background-repeat: repeat-x, repeat;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}
+#e3 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg);
+  background-size: 50px;
+  background-position-y: left;
+  background-repeat: repeat-y;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}
+#e4 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg);
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}
+#e5 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg);
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center left;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}
+#e6 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg);
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center right;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}
+#e7 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg);
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}
+#e8 {
+  background-image: url(./photo_2021-10-14_15-17-20.jpg);
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  width: 300px;
+  height: 250px;
+  border: 3px solid black;
+  margin: 10px;
+}

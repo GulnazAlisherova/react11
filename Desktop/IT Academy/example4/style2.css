@@ -1,0 +1,28 @@
+.head {
+    color: rgb(255, 255, 255);
+    padding-top: 150px;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(./олени.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 90px;
+}
+
+.headers {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.text {
+    margin-top: 90px;
+    font-weight: 700;
+    font-family: 'Pragati Narrow', sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}

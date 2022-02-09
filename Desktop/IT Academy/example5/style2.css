@@ -1,0 +1,58 @@
+img{
+width:260px;
+}
+body{
+  background-color: rgb(104, 255, 112);
+}
+p{
+  font-family: 'Roboto', sans-serif;
+
+}
+.text-right{
+  text-align: right;
+}
+.text-left{
+  text-align: left;
+}
+.text-center{
+  text-align: center;
+}
+.btn-dashed {
+  border: 3px dashed ;
+}
+.btn-dotted {
+  border: 3px dotted ;
+}
+.btn-solid{
+  border: 3px solid ;
+}
+.border-color{
+  color:  rgb(14, 138, 45);
+  
+  }
+  .border-color2{
+ color: rgb(44, 54, 207);
+  }
+.border-color3{
+  color: black;
+}
+.border-color4{
+  color: tomato;
+}
+.border-color5{
+  color: rgb(243, 29, 207);
+}
+.align-left{
+  float: left;
+}
+.align-right{
+  float: right;
+}
+.btn-small{
+  padding: 4px 8px;
+  font-size:13px;
+}
+.btn-big {
+padding: 16px 32px;
+font-size: 20px;
+}

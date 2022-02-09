@@ -1,0 +1,50 @@
+/*a[title] {
+  color: tomato;
+}
+a[href="#"]{
+  color: green;
+}
+a[href^="www"]{
+  color: rgb(247, 44, 77);
+}
+a[href$="example"] {
+  color: peru;
+}
+a[href*="le"]{
+  font-weight: bold;
+}*/
+
+header p {
+  font-size: 20px;
+}
+aside p {
+  font-size: 14px;
+}
+li {
+  list-style-type: square;
+}
+li li{
+  list-style-type: circle;
+}
+
+h1 + p {
+  color: blue;
+}
+ul ~ 
+article > p{
+  color: gray;
+}
+header, article {
+  max-width: 600px;
+  margin:0 auto;
+}
+h1, h2 {
+  text-align: center;
+}
+
+article span
+article span > h1
+
+
+
+

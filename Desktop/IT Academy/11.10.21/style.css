@@ -1,0 +1,76 @@
+
+#example-1 {
+  background-color: rgb(142, 194, 112);
+   padding: 10px 20px 10px 20px;
+   margin: 10px ;
+   width: 300px;
+   border: 5px solid rgb(23, 180, 23);
+   outline: 10px dotted green;
+}
+#example-2 {
+  background-color: rgb(226, 170, 124);
+  padding: 5px 6px;
+  margin: 30px ;
+  width: 300px;
+}
+#example-3 {
+  background-color: rgb(121, 80, 68);
+  padding: 5px 0 ;
+  margin: 10px;
+}
+#example-4 {
+  background-color: rgb(101, 165, 92);
+  padding:0 5px 0 10px ;
+  margin: 10px;
+}
+#example-5 {
+  background-color: rgb(144, 74, 209);
+  padding: 10px 6px 8px 0;
+  margin: 10px;
+  border: 5px solid black;
+}
+#example-6 {
+  background-color: rgb(55, 197, 190);
+  padding: 7px 6px 7px 5px;
+  margin: 10px;
+  width: 280px;
+  height: 150px;
+  border-top-left-radius:50px ;
+  border-top-right-radius:100px ;
+  border-bottom-left-radius:50px ;
+  border-bottom-right-radius:250px ;
+  border: 5px solid black;
+  border: 6px dashed;
+}
+#example-7 {
+  background-color: rgb(115, 105, 165);
+  padding: 0 0 0 5px;
+  margin: 10px;
+  border-top:5px dashed blue;
+}
+#example-8 {
+  background-color: rgb(158, 87, 143);
+  padding: 10px 20px 10px 0;
+  margin: 10px 20px;
+  border-bottom: 5px dotted red;
+}
+#example-9 {
+  background-color: rgb(91, 55, 133);
+  padding: 10px 20px 0 ;
+  margin: 10px;
+  border-left :5px double green ;
+  
+}
+#example-10 {
+  background-color: rgb(112, 57, 57);
+  padding: 10px 40px 0 ;
+  margin: 10px 30px;
+  border-right:5px double yellow;
+}
+
+
+
+
+
+
+

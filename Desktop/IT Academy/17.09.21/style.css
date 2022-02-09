@@ -1,0 +1,156 @@
+body{
+  background: rgb(208, 188, 245);
+}
+article {
+  text-align: justify;
+  margin: 50px;
+  background:rgb(229, 185, 153);
+}
+p {
+  margin: 10px;
+}
+
+#q1 {
+ text-align: center;
+ font-family: 'Mukta', sans-serif;
+ background-color: rgb(164, 113, 211);
+}
+h2 {
+  margin: 20px;
+  text-align: center;
+  font-family: 'Andada Pro', serif;
+  text-decoration: underline;
+}
+#s1 {
+  float: left;
+  border: 3px solid black;
+  width: 300px;
+  padding: 2px;
+  margin: 10px;
+}
+#s2 {
+  float: right;
+  border: 3px dashed black;
+  width: 200px;
+  margin: 9px;
+}
+#s3 {
+  float: left;
+  outline: 2px dotted black;
+  width: 240px;
+  padding: 2px;
+  margin: 5px;
+}
+#i1 {
+  float: right;
+  width: 390px;
+  margin: 10px;
+  border: 2px solid black;
+}
+#i2 {
+  float:left;
+  width: 350px;
+  margin: 10px;
+  border: 2px solid black;
+}
+#i3 {
+  float:right;
+  width: 350px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+#i4 {
+  float:left;
+  width: 350px;
+  margin: 10px;
+  border: 2px solid black;
+}
+#i5 {
+  float:right;
+  width: 350px;
+  margin: 10px;
+  border: 2px solid black;
+}
+#i6 {
+  float:left;
+  width: 350px;
+  margin: 10px;
+  border: 2px solid black;
+}
+#i7 {
+  float:right;
+  width: 350px;
+  margin: 10px;
+  border: 2px solid black;
+}
+.t0 {
+  font-family: fantasy;
+}
+.t1 {
+  background-color: rgb(252, 95, 244);
+  font-family: 'Inconsolata', monospace;
+  font-weight: 900;
+  
+}
+.t2 {
+  background-color: rgb(218, 85, 85);
+  font-family:fantasy;
+  font-weight: 700;
+}
+.t3 {
+  font-family: 'Lobster', cursive;
+  background-color: gray;
+}
+.t4 {
+  font-family: 'Rampart One', cursive;
+  color: rgb(46, 13, 13);
+  background-color: hotpink;
+}
+.t5 {
+ color: black;
+ background-color: rgb(215, 235, 102);
+  font-family: 'Cookie', cursive;
+  font-weight: 900;
+  font-style: normal;
+}
+.t6 {
+  font-family: 'Londrina Solid', cursive;
+  background-color: mediumspringgreen;
+}
+.t7 {
+  font-family: 'Saira', sans-serif;
+  background-color: rgb(116, 229, 233);
+  color: black;
+  font-weight: 900;
+}
+#aa1 {
+  width: 500px;
+}
+#aa2 {
+  width: 500px;
+  float: left;
+  outline: 1,5px dashed black;
+}
+TABLE {
+  border: 2px solid rgb(255, 255, 255);
+  width: 600px; 
+  border-collapse: collapse; 
+ }
+ #r1 {
+   background-color: rgb(84, 84, 247);
+   border: 2px solid white;
+ }
+ #r2 {
+   background-color: gray;
+   border: 2px solid white;
+ }
+ #r3 {
+   background-color: rgb(84, 84, 247);
+   border: 2px solid white;
+ }
+ #r4 {
+   background-color: gray;
+   border: 2px solid white;
+ }
+ 

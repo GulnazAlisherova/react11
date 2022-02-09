@@ -1,0 +1,21 @@
+a {
+  justify-content: space-between;
+  color: rgb(0, 0, 0);
+  padding: 15px;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+
+}
+body{
+ padding-right: 0 auto;
+ padding-left: 0 auto ;
+}
+
+h1{
+  text-decoration: underline;
+  text-align: center;
+}
+.ex-1{
+  list-style-type: none;
+  margin: 0 auto;
+  max-width: 500px;
+}

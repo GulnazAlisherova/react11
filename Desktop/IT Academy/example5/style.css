@@ -1,0 +1,101 @@
+li {
+    margin-bottom: 10px;
+}
+
+.btn {
+    border: none;
+    padding: 10px 15px;
+   
+}
+
+.btn-primary {
+    background-color: blue;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: dimgrey;
+    color: white;
+}
+
+.btn-success {
+    background-color: green;
+    color: white;
+}
+
+.btn-danger {
+    background-color: rgb(238, 53, 20);
+    color: white;
+}
+
+.btn-warning {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+}
+
+.btn-info {
+    background-color: teal;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
+
+.btn-light {
+    background-color: thistle;
+}
+
+.btn-dark {
+    color: white;
+    background-color: rgb(32, 11, 2);
+}
+
+.btn-link {
+    color: rgb(29, 29, 189);
+    text-decoration: underline;
+}
+
+.btn-thirdery {
+    color: rgb(41, 32, 32);
+    background-color: rgb(161, 20, 119);
+}
+.btn-small{
+    padding: 4px 8px;
+    font-size:13px;
+}
+.btn-big {
+padding: 16px 32px;
+font-size: 20px;
+
+}
+.btn-circle{
+ width: 100px;
+ height: 100px;
+ border-radius: 30px;
+}
+.align-left{
+    float: left;
+}
+.align-right{
+    float: right;
+}
+.btn-dotted{
+    border:4px dotted 
+}
+.btn-dashed {
+    border: 2px dashed 
+}
+.border-color{
+color:  rgb(14, 138, 45);
+
+}
+.border-color2{
+    color: rgb(44, 54, 207);
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
